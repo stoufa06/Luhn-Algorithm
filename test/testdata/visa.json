@@ -1,0 +1,62 @@
+[
+  {
+    "CreditCard": {
+      "IssuingNetwork": "Visa",
+      "CardNumber": 4929344215485675
+    }
+  },
+  {
+    "CreditCard": {
+      "IssuingNetwork": "Visa",
+      "CardNumber": 4916865969712133
+    }
+  },
+  {
+    "CreditCard": {
+      "IssuingNetwork": "Visa",
+      "CardNumber": 4024007185626982
+    }
+  },
+  {
+    "CreditCard": {
+      "IssuingNetwork": "Visa",
+      "CardNumber": 4485347124028805
+    }
+  },
+  {
+    "CreditCard": {
+      "IssuingNetwork": "Visa",
+      "CardNumber": 4532403932418762
+    }
+  },
+  {
+    "CreditCard": {
+      "IssuingNetwork": "Visa",
+      "CardNumber": 4716880182315731
+    }
+  },
+  {
+    "CreditCard": {
+      "IssuingNetwork": "Visa",
+      "CardNumber": 4532281476572958
+    }
+  },
+  {
+    "CreditCard": {
+      "IssuingNetwork": "Visa",
+      "CardNumber": 4556106080639482
+    }
+  },
+  {
+    "CreditCard": {
+      "IssuingNetwork": "Visa",
+      "CardNumber": 4716546374177714
+    }
+  },
+  {
+    "CreditCard": {
+      "IssuingNetwork": "Visa",
+      "CardNumber": 4716303931021542
+    }
+  }
+]

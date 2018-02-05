@@ -1,0 +1,27 @@
+{
+	"name" : "Luhn Agorithm",
+	"description" : "Luhn Agorithm Package",
+	"keywords" : [
+		"Luhn",
+		"Agorithm"
+	],
+	"license" : "AGPL-3.0",
+	"type" : "library",
+	"autoload" : {
+		"psr-4" : {
+			"LuhnAlgo\\" : "src/"
+		},
+		"files" : [
+			"include/utils.php"
+		]
+	},
+	"require" : {
+		"php" : ">=7.0.0"
+	},
+	"minimum-stability" : "stable",
+	"authors" : [{
+			"name" : "stoufa",
+			"role" : "Creator"
+		}
+	]
+}

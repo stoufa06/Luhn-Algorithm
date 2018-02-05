@@ -1,0 +1,62 @@
+[
+  {
+    "CreditCard": {
+      "IssuingNetwork": "American Express",
+      "CardNumber": 378766681165445
+    }
+  },
+  {
+    "CreditCard": {
+      "IssuingNetwork": "American Express",
+      "CardNumber": 372331360408685
+    }
+  },
+  {
+    "CreditCard": {
+      "IssuingNetwork": "American Express",
+      "CardNumber": 349987837893278
+    }
+  },
+  {
+    "CreditCard": {
+      "IssuingNetwork": "American Express",
+      "CardNumber": 371915530489343
+    }
+  },
+  {
+    "CreditCard": {
+      "IssuingNetwork": "American Express",
+      "CardNumber": 341133517168412
+    }
+  },
+  {
+    "CreditCard": {
+      "IssuingNetwork": "American Express",
+      "CardNumber": 377561893395430
+    }
+  },
+  {
+    "CreditCard": {
+      "IssuingNetwork": "American Express",
+      "CardNumber": 343597086304269
+    }
+  },
+  {
+    "CreditCard": {
+      "IssuingNetwork": "American Express",
+      "CardNumber": 346050230197327
+    }
+  },
+  {
+    "CreditCard": {
+      "IssuingNetwork": "American Express",
+      "CardNumber": 372717858130312
+    }
+  },
+  {
+    "CreditCard": {
+      "IssuingNetwork": "American Express",
+      "CardNumber": 345473951081002
+    }
+  }
+]
