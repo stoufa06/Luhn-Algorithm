@@ -38,6 +38,8 @@ Run php file
 # Run project tests
 Via command line
 `php path-to-project-code/test/test.commandline.php`
+
 Html version 
 `http://localhost/Luhn-Algorithm/test/test.html.php`
+
 Test data are json files located in test/testdata. These files are generated from http://www.getcreditcardnumbers.com/.
