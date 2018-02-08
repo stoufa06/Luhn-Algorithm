@@ -15,7 +15,7 @@ abstract class AbstractCard
      */
     public function __construct(string $card_number = '') 
     {
-        if (func_num_args() == 1) {
+        if (func_num_args() == 1 && $card_number != '') {
             $this->ensureIsValidCard($card_number);
             $this->cardNumber = $card_number;
         }
