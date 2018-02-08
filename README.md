@@ -1,10 +1,10 @@
 # Luhn-Algorithm
 Composer library for Luhn algorithm credit card Validation
 
-#Install with composer
+# Install with composer
 `composer require stoufa/luhn-agorithm`
 
-#How to use 
+# How to use 
 create php file index.php
 ```php
 <?php  
@@ -35,7 +35,7 @@ try {
 Run php file
 `php index.php`
 
-#Run project tests
+# Run project tests
 Via command line
 `php path-to-project-code/test/test.commandline.php`
 Html version 
